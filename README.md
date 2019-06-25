@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the biggest challenges I faced while coding this app was figuring out constraints on the ListView and buttons of my application. I was not familiar with constraint layout, so this took some time to figure out. 
 
 ## License
 
