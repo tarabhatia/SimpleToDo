@@ -1,8 +1,8 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Simple ToDo App*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Simple ToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Simple ToDo**
+Submitted by: **Tara Bhatia**
 
 Time spent: **4** hours spent in total
 
@@ -16,27 +16,23 @@ The following **required** functionality is completed:
 
 The following **stretch** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='SimpleToDoGIF.gif'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the biggest challenges I faced while coding this app was figuring out constraints on the ListView and buttons of my application. I was not familiar with constraint layout, so this took some time to figure out. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Tara Bhatia]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
